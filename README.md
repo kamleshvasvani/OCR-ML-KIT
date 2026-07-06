@@ -1,4 +1,4 @@
-# OCR Scanner
+## OCR Scanner
 An Android OCR Scanner application built using:
 - Jetpack Compose
 - Kotlin
